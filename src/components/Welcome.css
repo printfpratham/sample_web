@@ -1,0 +1,20 @@
+.welcome-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #ff73a1 10%, #ff5151 100%);
+  color: white;
+  text-align: center;
+  flex-direction: column;
+}
+
+.welcome-container h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.welcome-container p {
+  font-size: 1.5em;
+}
+
